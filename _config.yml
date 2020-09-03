@@ -2,11 +2,11 @@
 title: ApparitionCast
 SEOTitle: ApparitionCast
 header-img: img/post-bg-desk.jpg
-email: zymmaria@163.com
+email: klovien@gmail.com
 description: "a place where clovers thrive"
-keyword: "Humanities,Reading,Philosophy,Feminism"
+keyword: "Humanities,Reading,Philosophy"
 url: "https://apparitioncast.github.io"          # your host, for absolute URL
-baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/apparitioncast/apparitioncast.github.io.git" # you code repository
 
 # Sidebar settings
